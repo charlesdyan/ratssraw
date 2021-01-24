@@ -1,6 +1,5 @@
 import pytest
-
-from ratssraw import ratssraw
+import ratssraw
 
 @pytest.fixture
 def client():
