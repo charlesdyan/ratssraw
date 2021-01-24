@@ -1,2 +1,5 @@
-/_pycache_
+_pycache_/
 /.vscode
+/venv
+/ratssraw.egg-info
+/.pytest_cache
